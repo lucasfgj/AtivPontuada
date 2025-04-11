@@ -10,7 +10,9 @@ Esta é uma API RESTful desenvolvida em Spring Boot para gerenciar funcionários
     <h3 style="color: #000000;">Ferramentas utilizadas no processo.</h3>
     <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="Ícone JAVA" style="width: 100px; height: auto;">
     <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Ícone JAVA" style="width: 100px; height: auto;">
-    ![image](https://github.com/user-attachments/assets/853a1185-86f1-4a83-bc10-8b4d326344db)
+     https://img.icons8.com/?size=100&id=90519&format=png&color=000000
+
+
 
    
 </div>
